@@ -27,10 +27,10 @@ function login() {
             document.getElementById('p').innerHTML = username;
             return
         }
+        
     }
     var b = "incorrect username or passsowd";
     document.getElementById('pp').innerHTML = b;
-
 }
 
 //-----------------------------------------------------------------------------
@@ -65,3 +65,12 @@ function requistuser() {
     objpeople.push(Newuser)
     console.log(objpeople)
 }
+
+
+
+
+
+
+var xyy = "./dashboard.html";
+
+document.getElementById('aaa').href= xyy;

@@ -154,3 +154,6 @@ body{
     width: 416px;
     height: 40px;
 }
+.lgn{
+    transform: translateX(-700px);
+}
