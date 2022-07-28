@@ -1,0 +1,22 @@
+{
+    "name": [
+        {
+                "username" : "sam",
+                "password" : "sss",
+                "email": "email",
+                "id" : 1
+            },
+            {
+                "username": "meet",
+                "password" : "ffff",
+                "email" : "email",
+                "id" : 2 
+            },
+            {
+                "username" : "zzz",
+                "password" : "xxx",
+                "email" : "email",
+                "id" : 3
+            }
+    ]
+}
