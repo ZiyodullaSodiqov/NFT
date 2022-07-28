@@ -9,7 +9,7 @@ body{
 .div{
     position: absolute;
     width: 84px;
-    height: 585px;
+    height: 1000px;
     left: 60px;
     top: 20px;
     background: #ffffffe8;
@@ -50,7 +50,7 @@ body{
 .set{
     width: 20px;
     height: 20px;
-    transform: translateX(10px) translateY(455px);
+    transform: translateX(10px) translateY(880px);
 }
 #inp_s{
     transform: translateX(220px) translateY(30px);
@@ -243,4 +243,78 @@ body{
     order: 0;
     flex-grow: 0;
     transform: translateY(-5px) translateX(875px);
+}
+.divBg{
+    position: absolute;
+    width: 236px;
+    height: 166px;
+    border-radius: 20px;
+    transform: translateX(12px) translateY(-70px);
+}
+.divText{   
+    position: absolute;
+    width: 260px;
+    height: 166px;
+    background: #FFFFFF;
+    box-shadow: 5px 6px 19px rgba(62, 72, 118, 0.04);
+    border-radius: 20px;
+    z-index: -10;
+    transform: translateY(100px) translateX(220px);
+}
+.divText2{
+    position: absolute;
+    width: 260px;
+    height: 166px;
+    background: #FFFFFF;
+    box-shadow: 5px 6px 19px rgba(62, 72, 118, 0.04);
+    border-radius: 20px;
+    transform: translateY(100px) translateX(500px);
+}
+.divBg2{
+    transform: translateX(12px) translateY(-70px);
+}
+.divText3{
+    position: absolute;
+    width: 260px;
+    height: 166px;
+    background: #FFFFFF;
+    box-shadow: 5px 6px 19px rgba(62, 72, 118, 0.04);
+    border-radius: 20px;
+    z-index: -10;
+    transform: translateY(100px) translateX(780px);
+}
+.divbg3{
+    transform: translateX(12px) translateY(-70px);
+}
+.trendingg{
+    transform: translateY(100px);
+}
+.follow1{
+    position: absolute;
+    width: 402px;
+    height: 98px;
+    background: #FFFFFF;
+    box-shadow: 5px 6px 19px rgba(62, 72, 118, 0.04);
+    border-radius: 20px;
+    transform: translateX(215px) translateY(330px) !important;
+}
+#btnFl{
+    color: #ffff;
+    border: none;
+    outline: none;
+    position: absolute;
+    width: 126px;
+    height: 44px;
+    background: #3162FF;
+    border-radius: 16px;
+    transform: translateX(250px) translateY(-75px);
+}
+.follow2{
+    position: absolute;
+    width: 402px;
+    height: 98px;
+    background: #FFFFFF;
+    box-shadow: 5px 6px 19px rgba(62, 72, 118, 0.04);
+    border-radius: 20px;
+    transform: translateX(640px) translateY(330px) !important;
 }
